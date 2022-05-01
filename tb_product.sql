@@ -32,7 +32,7 @@ CREATE TABLE `tb_product` (
   PRIMARY KEY (`product_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=gb2312;
 
--- ----------------------------
+-- ---------------------------- 
 -- Records of tb_product
 -- ----------------------------
 INSERT INTO `tb_product` VALUES ('2fd8e5b6-7494-4137-8438-5fd0c530dff5', '周黑鸭卤鸭脖【趣享】锁鲜120g', '1390', '入口微甜，越吃越辣，越吃越麻，鲜香回味，“欲罢不能”。', 'https://imgs.pupuapi.com/STORE_PRODUCT/4e25b040929a47c5917a3d2f2086f456/1644995345133.png?x-oss-process=image/format,jpg,image/resize,h_720/watermark,image_TUlOSUFQUF9RUkNPREUvN2UyZmNkNDA0MjA0NDIwZThjZmNlNmVmMjBjOTQzMWMvMTY0OTczMzA2NjQyNS5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8xMDA,t_100,g_center,x_0,y_0#', '120g/份', '广东省东莞市', '7', '1');
