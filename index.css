@@ -1,0 +1,9 @@
+.deleteBtn {
+    color: #ff5e3c;
+}
+a{
+    cursor: pointer;
+}
+body,html,.container{
+    min-width: 1080px;
+}
